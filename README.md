@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YJxxx
+- 👋 Hi, I’m @Eric
 - 🌱 I’m currently learning Rust
 
 
